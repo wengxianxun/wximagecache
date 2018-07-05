@@ -1,0 +1,3 @@
+
+<image lazy-load="true" class='wxximageclass' mode="widthFix" src='{{srcurl}}'>
+</image>

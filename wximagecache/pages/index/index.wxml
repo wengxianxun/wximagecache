@@ -1,0 +1,10 @@
+
+
+<!-- 
+wxximageclass：自定义样式     
+imageid:图片缓存的key值，每张图片的key必须唯一
+imageurl:图片的url 
+
+-->
+
+ <wxximage wxximageclass="wxximageclass"  imageid="1" imageurl="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1530782157644&di=6887aa5276f5f1d5dff4d5d097ade821&imgtype=0&src=http%3A%2F%2Fimg.bimg.126.net%2Fphoto%2FIwku9tJ6U9fKJ_WIn3toEg%3D%3D%2F5788532896054831422.jpg"> </wxximage> 

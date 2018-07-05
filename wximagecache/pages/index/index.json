@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "wxximage": "../../component/wxximage/wxximage"
+  },
+  "navigationBarTitleText": "缓存图片测试"
+}
